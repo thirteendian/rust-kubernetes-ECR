@@ -14,3 +14,15 @@ This project also was deployed to aws Cloud9 conbined with actix microservice as
 2. build and run container via `make build` and `make rundocker`
 3. push to ECR
 4. Tell AWS APP Runner to deploy 
+
+## Deployment
+
+You can run this project directly on my deployment on AWS at 
+https://56iuisbe3m.us-east-1.awsapprunner.com/
+
+You may visit the version through 
+https://56iuisbe3m.us-east-1.awsapprunner.com/health
+
+You may visit and generate random fruit through
+https://56iuisbe3m.us-east-1.awsapprunner.com/fruit
+
