@@ -7,7 +7,7 @@
 
 use actix_web::{get, App, HttpResponse, HttpServer, Responder};
 
-use week5::random_fruit;
+use myproject2::random_fruit;
 
 //create a function that returns a hello world
 #[get("/")]
