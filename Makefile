@@ -19,6 +19,8 @@ test:
 run:
 	cargo run
 
+rundocker:
+	docker run -it --rm -p 8080:8080 fruit
 release:
 	cargo build --release
 
