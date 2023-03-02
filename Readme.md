@@ -26,3 +26,6 @@ https://56iuisbe3m.us-east-1.awsapprunner.com/health
 You may visit and generate random fruit through
 https://56iuisbe3m.us-east-1.awsapprunner.com/fruit
 
+
+Please check the deployment on App:
+![](figure.png)
